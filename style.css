@@ -35,6 +35,7 @@ html{
     flex-direction: column;
     justify-content: space-evenly;
     cursor: pointer;
+    z-index: 200;
 }
 
 .show-menu .hamburguer{
